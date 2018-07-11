@@ -1,4 +1,4 @@
-*.txt
+.gitignore
 *.zip
 *.gz
 log/*.log
@@ -7,5 +7,8 @@ assets/photoshop
 assets/videos/
 !assets/videos/tour_*.mp4
 index.sublime-workspace
+commitLog.txt
 
 #questions: would log/archive/access.log be ignored? No.
+#https://help.github.com/articles/ignoring-files
+#https://github.com/github/gitignore
